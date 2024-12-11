@@ -1,7 +1,7 @@
 # 11.12.2024 Material UI Vorauslernen für die Weiterbildung
 
   - Verwendung der `styled()` Funktion
-  - Anpassung von Komponenten:
+  - Komponenten:
     - Grid
     - Card
     - List

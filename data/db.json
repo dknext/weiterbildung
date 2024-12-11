@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "great",
+      "details": "lorem1000000",
+      "category": "Germany"
+    },
+    {
+      "id": "2",
+      "title": "good",
+      "details": "lorem1000000",
+      "category": "Japan"
+    },
+    {
+      "id": "3",
+      "title": "awesome",
+      "details": "lorem1000000",
+      "category": "Netherlands"
+    }
+  ]
+}
